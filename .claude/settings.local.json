@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"C:/Users/pgugnowski/.claude/skills/code-review-react-nextjs/tools/internal/ec-windows-amd64.exe\" --help)",
+      "Bash(\"C:/Users/pgugnowski/.claude/skills/code-review-react-nextjs/tools/internal/ec-windows-amd64.exe\" src/services/molli-intent/oldApiService.ts)"
+    ]
+  }
+}
